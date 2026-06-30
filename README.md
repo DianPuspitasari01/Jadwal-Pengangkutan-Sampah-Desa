@@ -158,3 +158,7 @@ Untuk menambah fitur atau memperbaiki bug, silakan modify file sesuai kebutuhan.
 ## 📄 Lisensi
 
 MIT License - Sempurna untuk tujuan pembelajaran dan komersial
+
+### nama: dian puspitasari
+### nim: 101230016
+### kelas: tf23b
